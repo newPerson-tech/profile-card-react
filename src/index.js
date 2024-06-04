@@ -37,12 +37,12 @@ function Intro() {
 function SkillList() {
   return (
     <div className="skill-list">
-      <Skill skill="HTML5/CSS3" emoji="💪" color="red" />
-      <Skill skill="JavaScript" emoji="💪" color="yellow" />
-      <Skill skill="React" emoji="💪" color="lightblue" />
+      <Skill skill="HTML5 & CSS3" emoji="💪" color="red" />
+      <Skill skill="JavaScript" emoji="👍" color="yellow" />
+      <Skill skill="React" emoji="👍" color="lightblue" />
       <Skill skill="Git and GitHub" emoji="💪" color="grey" />
-      <Skill skill="API" emoji="💪" color="orange" />
-      <Skill skill="AJAX" emoji="💪" color="purple" />
+      <Skill skill="API" emoji="👍" color="orange" />
+      <Skill skill="AJAX" emoji="👶" color="purple" />
     </div>
   );
 }
